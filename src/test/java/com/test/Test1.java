@@ -17,5 +17,17 @@ public class Test1 {
 		System.out.println("4");
 
 	}
+	public void method5() {
+		System.out.println("5");
+
+	}
+	public void method6() {
+		System.out.println("6");
+
+	}
+	public void method7() {
+		System.out.println("7");
+
+	}
 
 }
